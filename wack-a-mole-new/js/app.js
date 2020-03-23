@@ -6,7 +6,7 @@ class Player {
         this.score = 0
     }
 }
-
+ 
 const game = {
     // playerScore: 0, // in CL -- when game.player (after game.addPLayer() -- 
     // shows the correct score (current score) <--this is now activeplayer.score
